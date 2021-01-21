@@ -1,4 +1,72 @@
 {
+	"books": [
+        {
+            "bookID": 1,
+            "title": "Harry Potter and the Half-Blood Prince",
+            "authors": "J.K. Rowling-Mary GrandPré",
+            "average_rating": 4.56,
+            "isbn": 439785960,
+            "language_code": "eng",
+            "ratings_count": 1944099,
+            "price": 230,
+            "image_url": "https://images-na.ssl-images-amazon.com/images/I/51t55KcM8pL._SX332_BO1,204,203,200_.jpg"
+        },
+        {
+            "bookID": 2,
+            "title": "The Ultimate Hitchhiker's Guide",
+            "authors": "Douglas Adams",
+            "average_rating": 4.38,
+            "isbn": 517226952,
+            "language_code": "eng",
+            "ratings_count": 3602,
+            "price": 238,
+            "image_url": "https://m.media-amazon.com/images/I/51x53xtKI0L.jpg"
+        },
+        {
+            "bookID": 3,
+            "title": "The Lost Continent",
+            "authors": "Bill Bryson",
+            "average_rating": 3.83,
+            "isbn": 60920084,
+            "language_code": "en-US",
+            "ratings_count": 43779,
+            "price": 248,
+            "image_url": "https://m.media-amazon.com/images/I/51IwdZ7D5jL.jpg"
+        },
+        {
+            "bookID": 4,
+            "title": "Neither Here nor There: Travels in Europe",
+            "authors": "Bill Bryson",
+            "average_rating": 3.87,
+            "isbn": 380713802,
+            "language_code": "eng",
+            "ratings_count": 46397,
+            "price": 249,
+            "image_url": "https://m.media-amazon.com/images/I/91EUsD9cG5L._AC_UY436_FMwebp_QL65_.jpg"
+        },
+        {
+            "bookID": 5,
+            "title": "Notes from a Small Island",
+            "authors": "Bill Bryson",
+            "average_rating": 3.92,
+            "isbn": 380727501,
+            "language_code": "eng",
+            "ratings_count": 76476,
+            "price": 250,
+            "image_url": "https://m.media-amazon.com/images/I/91Dv514gffL._AC_UY436_FMwebp_QL65_.jpg"
+        },
+        {
+            "bookID": 6,
+            "title": "The Mother Tongue",
+            "authors": "Bill Bryson",
+            "average_rating": 3.94,
+            "isbn": 380715430,
+            "language_code": "eng",
+            "ratings_count": 26672,
+            "price": 251,
+            "image_url": "https://m.media-amazon.com/images/I/51qdvFn+ixL._AC_UY436_FMwebp_QL65_.jpg"
+        }
+    ],
     "cities": [
         {
             "id": 1253095,
